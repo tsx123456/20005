@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2470576307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dc87bbf6a77fa964e53e0292b4ffd3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1357348699e0a195140105923fdc5cf4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Spine/en_US/chaojidamanguan/chaojidamanguan.json
+- Assets/tsxFruitMachine/Spine/en_US/chaojidamanguan/chaojidamanguan_SkeletonData.asset
+- Assets/tsxFruitMachine/Spine/en_US/chaojidamanguan/chaojidamanguan.png
+- Assets/tsxFruitMachine/Spine/en_US/chaojidamanguan/chaojidamanguan_Atlas.asset
+- Assets/tsxFruitMachine/Spine/en_US/chaojidamanguan/chaojidamanguan.atlas.txt
+Dependencies: []

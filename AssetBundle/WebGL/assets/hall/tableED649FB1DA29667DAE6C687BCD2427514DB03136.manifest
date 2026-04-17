@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1275487494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3697fe928829a4fdd1acacb8e8bc3d75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Table/Problem.json
+- Assets/Hall/Table/Platform_Guide.json
+- Assets/Hall/Table/Platform_RoomState.json
+- Assets/Hall/Table/Platform_Shop.json
+- Assets/Hall/Table/Fish_Cannon.json
+- Assets/Hall/Table/Fish_Global.json
+- Assets/Hall/Table/Platform_Robot.json
+- Assets/Hall/Table/Activity_Priority.json
+- Assets/Hall/Table/Fish.json
+- Assets/Hall/Table/VipAccount.json
+- Assets/Hall/Table/Platform_Faq.json
+- Assets/Hall/Table/Platform_Challenge.json
+- Assets/Hall/Table/Platform_RoleHead.json
+- Assets/Hall/Table/Platform_Noble.json
+- Assets/Hall/Table/Fish_Gen.json
+- Assets/Hall/Table/NewFishing_Shell.json
+- Assets/Hall/Table/Fish_Map.json
+- Assets/Hall/Table/Platform_LoadingTip.json
+- Assets/Hall/Table/Fish_Tide.json
+- Assets/Hall/Table/Platform_ShopReview.json
+- Assets/Hall/Table/Landlord.json
+- Assets/Hall/Table/Platform_DailyTask.json
+- Assets/Hall/Table/Platform_Level.json
+- Assets/Hall/Table/Platform_Item.json
+- Assets/Hall/Table/Platform_RoleMood.json
+Dependencies: []

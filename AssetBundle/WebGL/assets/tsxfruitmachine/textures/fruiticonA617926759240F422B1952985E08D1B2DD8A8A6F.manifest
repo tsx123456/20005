@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1521814687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1f16f8df44c7e24a22180bf596820e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_15.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_12.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_8.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_16.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_6.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_11.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_18.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/luck_di.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_4.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_10.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_7.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_1.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_13.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/luck_di1.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_di.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_5.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/FruitIcon_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_24.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_20.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_9.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_14.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_2.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_3.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/img_light.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_21.png
+- Assets/tsxFruitMachine/Textures/FruitIcon/icon_23.png
+Dependencies: []

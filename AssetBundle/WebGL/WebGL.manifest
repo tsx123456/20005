@@ -1,0 +1,193 @@
+ManifestFileVersion: 0
+CRC: 2016711755
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/tsxfruitmachine/anim.ab
+      Dependencies: {}
+    Info_1:
+      Name: assets/tsxfruitmachine/animation.ab
+      Dependencies: {}
+    Info_2:
+      Name: assets/tsxfruitmachine/audios.ab
+      Dependencies: {}
+    Info_3:
+      Name: assets/tsxfruitmachine/font.ab
+      Dependencies: {}
+    Info_4:
+      Name: assets/tsxfruitmachine/headicon.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets/tsxfruitmachine/materials.ab
+      Dependencies:
+        Dependency_0: assets/tsxfruitmachine/textures/textures_eff.ab
+    Info_6:
+      Name: assets/tsxfruitmachine/scripts.ab
+      Dependencies: {}
+    Info_7:
+      Name: assets/tsxfruitmachine/uiitem.ab
+      Dependencies:
+        Dependency_0: assets/tsxfruitmachine/textures/fruiticon.ab
+        Dependency_1: assets/tsxfruitmachine/textures/historyicon.ab
+        Dependency_2: assets/tsxfruitmachine/textures/main.ab
+    Info_8:
+      Name: assets/tsxfruitmachine/uiwnd.ab
+      Dependencies:
+        Dependency_0: assets/tsxfruitmachine/animation.ab
+        Dependency_1: assets/tsxfruitmachine/font.ab
+        Dependency_2: assets/tsxfruitmachine/materials.ab
+        Dependency_3: assets/tsxfruitmachine/spine/bar_effect.ab
+        Dependency_4: assets/tsxfruitmachine/spine/dajiangbeijing.ab
+        Dependency_5: assets/tsxfruitmachine/spine/juzi_effect.ab
+        Dependency_6: assets/tsxfruitmachine/spine/lingdang_effect.ab
+        Dependency_7: assets/tsxfruitmachine/spine/ningmeng_effect.ab
+        Dependency_8: assets/tsxfruitmachine/spine/pingguo_effect.ab
+        Dependency_9: assets/tsxfruitmachine/spine/qiqi_effect.ab
+        Dependency_10: assets/tsxfruitmachine/spine/shuiguiji_neiye_anniuhong.ab
+        Dependency_11: assets/tsxfruitmachine/spine/shuiguiji_neiye_anniulv.ab
+        Dependency_12: assets/tsxfruitmachine/spine/shuiguojibeijing.ab
+        Dependency_13: assets/tsxfruitmachine/spine/shuiguoji_kaijiangbeijing.ab
+        Dependency_14: assets/tsxfruitmachine/spine/xigua_effect.ab
+        Dependency_15: assets/tsxfruitmachine/spine/xing_effect.ab
+        Dependency_16: assets/tsxfruitmachine/textures/chipicon.ab
+        Dependency_17: assets/tsxfruitmachine/textures/fruiticon.ab
+        Dependency_18: assets/tsxfruitmachine/textures/help.ab
+        Dependency_19: assets/tsxfruitmachine/textures/main.ab
+        Dependency_20: assets/tsxfruitmachine/textures/textures_eff.ab
+        Dependency_21: assets/tsxfruitmachine/spine/on_en/chaojidamanguan.ab
+        Dependency_22: assets/tsxfruitmachine/spine/on_en/dasanyuan.ab
+        Dependency_23: assets/tsxfruitmachine/spine/on_en/dasixi.ab
+        Dependency_24: assets/tsxfruitmachine/spine/on_en/jiulianbaodeng.ab
+        Dependency_25: assets/tsxfruitmachine/spine/on_en/tianlongbabu.ab
+        Dependency_26: assets/tsxfruitmachine/spine/on_en/tiannvsanhua.ab
+        Dependency_27: assets/tsxfruitmachine/spine/on_en/xiaosanyuan.ab
+        Dependency_28: assets/tsxfruitmachine/spine/on_en/zonghengsihai.ab
+    Info_9:
+      Name: assets/tsxfruitmachine/spine/bar_effect.ab
+      Dependencies: {}
+    Info_10:
+      Name: assets/tsxfruitmachine/spine/dajiangbeijing.ab
+      Dependencies: {}
+    Info_11:
+      Name: assets/tsxfruitmachine/spine/juzi_effect.ab
+      Dependencies: {}
+    Info_12:
+      Name: assets/tsxfruitmachine/spine/lingdang_effect.ab
+      Dependencies: {}
+    Info_13:
+      Name: assets/tsxfruitmachine/spine/ningmeng_effect.ab
+      Dependencies: {}
+    Info_14:
+      Name: assets/tsxfruitmachine/spine/pingguo_effect.ab
+      Dependencies: {}
+    Info_15:
+      Name: assets/tsxfruitmachine/spine/qiqi_effect.ab
+      Dependencies: {}
+    Info_16:
+      Name: assets/tsxfruitmachine/spine/shuiguiji_neiye_anniuhong.ab
+      Dependencies: {}
+    Info_17:
+      Name: assets/tsxfruitmachine/spine/shuiguiji_neiye_anniulv.ab
+      Dependencies: {}
+    Info_18:
+      Name: assets/tsxfruitmachine/spine/shuiguojibeijing.ab
+      Dependencies: {}
+    Info_19:
+      Name: assets/tsxfruitmachine/spine/shuiguoji_kaijiangbeijing.ab
+      Dependencies: {}
+    Info_20:
+      Name: assets/tsxfruitmachine/spine/xigua_effect.ab
+      Dependencies: {}
+    Info_21:
+      Name: assets/tsxfruitmachine/spine/xing_effect.ab
+      Dependencies: {}
+    Info_22:
+      Name: assets/tsxfruitmachine/textures/chipicon.ab
+      Dependencies: {}
+    Info_23:
+      Name: assets/tsxfruitmachine/textures/fruiticon.ab
+      Dependencies: {}
+    Info_24:
+      Name: assets/tsxfruitmachine/textures/help.ab
+      Dependencies: {}
+    Info_25:
+      Name: assets/tsxfruitmachine/textures/historyicon.ab
+      Dependencies: {}
+    Info_26:
+      Name: assets/tsxfruitmachine/textures/main.ab
+      Dependencies: {}
+    Info_27:
+      Name: assets/tsxfruitmachine/textures/textures_eff.ab
+      Dependencies: {}
+    Info_28:
+      Name: assets/tsxfruitmachine/language/asia_hindi/main.ab
+      Dependencies: {}
+    Info_29:
+      Name: assets/tsxfruitmachine/language/asia_indonesia/main.ab
+      Dependencies: {}
+    Info_30:
+      Name: assets/tsxfruitmachine/language/asia_japan/main.ab
+      Dependencies: {}
+    Info_31:
+      Name: assets/tsxfruitmachine/language/asia_korea/main.ab
+      Dependencies: {}
+    Info_32:
+      Name: assets/tsxfruitmachine/language/en_us/main.ab
+      Dependencies: {}
+    Info_33:
+      Name: assets/tsxfruitmachine/language/pt/main.ab
+      Dependencies: {}
+    Info_34:
+      Name: assets/tsxfruitmachine/language/ru/main.ab
+      Dependencies: {}
+    Info_35:
+      Name: assets/tsxfruitmachine/language/thai/main.ab
+      Dependencies: {}
+    Info_36:
+      Name: assets/tsxfruitmachine/spine/en_us/chaojidamanguan.ab
+      Dependencies: {}
+    Info_37:
+      Name: assets/tsxfruitmachine/spine/en_us/dasanyuan.ab
+      Dependencies: {}
+    Info_38:
+      Name: assets/tsxfruitmachine/spine/en_us/dasixi.ab
+      Dependencies: {}
+    Info_39:
+      Name: assets/tsxfruitmachine/spine/en_us/jiulianbaodeng.ab
+      Dependencies: {}
+    Info_40:
+      Name: assets/tsxfruitmachine/spine/en_us/tianlongbabu.ab
+      Dependencies: {}
+    Info_41:
+      Name: assets/tsxfruitmachine/spine/en_us/tiannvsanhua.ab
+      Dependencies: {}
+    Info_42:
+      Name: assets/tsxfruitmachine/spine/en_us/xiaosanyuan.ab
+      Dependencies: {}
+    Info_43:
+      Name: assets/tsxfruitmachine/spine/en_us/zonghengsihai.ab
+      Dependencies: {}
+    Info_44:
+      Name: assets/tsxfruitmachine/spine/on_en/chaojidamanguan.ab
+      Dependencies: {}
+    Info_45:
+      Name: assets/tsxfruitmachine/spine/on_en/dasanyuan.ab
+      Dependencies: {}
+    Info_46:
+      Name: assets/tsxfruitmachine/spine/on_en/dasixi.ab
+      Dependencies: {}
+    Info_47:
+      Name: assets/tsxfruitmachine/spine/on_en/jiulianbaodeng.ab
+      Dependencies: {}
+    Info_48:
+      Name: assets/tsxfruitmachine/spine/on_en/tianlongbabu.ab
+      Dependencies: {}
+    Info_49:
+      Name: assets/tsxfruitmachine/spine/on_en/tiannvsanhua.ab
+      Dependencies: {}
+    Info_50:
+      Name: assets/tsxfruitmachine/spine/on_en/xiaosanyuan.ab
+      Dependencies: {}
+    Info_51:
+      Name: assets/tsxfruitmachine/spine/on_en/zonghengsihai.ab
+      Dependencies: {}

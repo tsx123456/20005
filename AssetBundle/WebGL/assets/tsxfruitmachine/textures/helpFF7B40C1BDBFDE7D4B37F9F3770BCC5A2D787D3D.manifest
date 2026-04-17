@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3229646391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30072d9c5fac5d04f1d1294d1eecaa59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Textures/Help/help_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/Textures/Help/close_1.png
+- Assets/tsxFruitMachine/Textures/Help/close.png
+- Assets/tsxFruitMachine/Textures/Help/dian2.png
+- Assets/tsxFruitMachine/Textures/Help/dian1.png
+Dependencies: []

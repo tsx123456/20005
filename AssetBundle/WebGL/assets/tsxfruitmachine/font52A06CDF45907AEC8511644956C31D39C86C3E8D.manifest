@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 69606085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78602a84ead258fbdec815056271303a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8cfe27075f27eb629066047c56e09d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Font/area_font.png
+- Assets/tsxFruitMachine/Font/winMoney_font(Material).mat
+- Assets/tsxFruitMachine/Font/rateNum_font(Font).fontsettings
+- Assets/tsxFruitMachine/Font/winMoney_font.png
+- Assets/tsxFruitMachine/Font/gear_font(Material).mat
+- Assets/tsxFruitMachine/Font/time_font.png
+- Assets/tsxFruitMachine/Font/winMoney_font(Font).fontsettings
+- Assets/tsxFruitMachine/Font/gear_font(Font).fontsettings
+- Assets/tsxFruitMachine/Font/area_font(Material).mat
+- Assets/tsxFruitMachine/Font/time_font(Material).mat
+- Assets/tsxFruitMachine/Font/rateNum_font.png
+- Assets/tsxFruitMachine/Font/rateNum_font(Material).mat
+- Assets/tsxFruitMachine/Font/chip_font(Material).mat
+- Assets/tsxFruitMachine/Font/gear_font.png
+- Assets/tsxFruitMachine/Font/time_font(Font).fontsettings
+- Assets/tsxFruitMachine/Font/chip_font.png
+- Assets/tsxFruitMachine/Font/chip_font(Font).fontsettings
+- Assets/tsxFruitMachine/Font/area_font(Font).fontsettings
+Dependencies: []

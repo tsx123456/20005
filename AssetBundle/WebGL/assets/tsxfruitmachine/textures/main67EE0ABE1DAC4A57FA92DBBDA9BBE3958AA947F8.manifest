@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3908346256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 687c60a07867350e1c5075a4a58183cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Textures/Main/bg.png
+- Assets/tsxFruitMachine/Textures/Main/close2.png
+- Assets/tsxFruitMachine/Textures/Main/img_headicon.png
+- Assets/tsxFruitMachine/Textures/Main/history_di1.png
+- Assets/tsxFruitMachine/Textures/Main/img_Playerlist.png
+- Assets/tsxFruitMachine/Textures/Main/help_2.png
+- Assets/tsxFruitMachine/Textures/Main/history_new.png
+- Assets/tsxFruitMachine/Textures/Main/close1.png
+- Assets/tsxFruitMachine/Textures/Main/img_tip.png
+- Assets/tsxFruitMachine/Textures/Main/img_areaicon.png
+- Assets/tsxFruitMachine/Textures/Main/gear_di.png
+- Assets/tsxFruitMachine/Textures/Main/Main_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/Textures/Main/img_head1.png
+- Assets/tsxFruitMachine/Textures/Main/history_di2.png
+- Assets/tsxFruitMachine/Textures/Main/help_1.png
+- Assets/tsxFruitMachine/Textures/Main/money_text.png
+- Assets/tsxFruitMachine/Textures/Main/img_betting.png
+- Assets/tsxFruitMachine/Textures/Main/bg_di.png
+- Assets/tsxFruitMachine/Textures/Main/img_gold.png
+- Assets/tsxFruitMachine/Textures/Main/gear_light.png
+- Assets/tsxFruitMachine/Textures/Main/money_di.png
+- Assets/tsxFruitMachine/Textures/Main/img_xian.png
+- Assets/tsxFruitMachine/Textures/Main/img_wait.png
+- Assets/tsxFruitMachine/Textures/Main/img_time_di.png
+- Assets/tsxFruitMachine/Textures/Main/img_time.png
+Dependencies: []

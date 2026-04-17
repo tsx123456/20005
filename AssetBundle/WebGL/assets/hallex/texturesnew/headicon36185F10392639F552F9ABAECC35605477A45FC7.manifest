@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3777397672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01bd0dc59ae1ce9ef659dc5ab494bdf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/HeadIcon/9.png
+- Assets/HallEx/TexturesNew/HeadIcon/8.png
+- Assets/HallEx/TexturesNew/HeadIcon/5.png
+- Assets/HallEx/TexturesNew/HeadIcon/freeframe.png
+- Assets/HallEx/TexturesNew/HeadIcon/1.png
+- Assets/HallEx/TexturesNew/HeadIcon/payframe_2.png
+- Assets/HallEx/TexturesNew/HeadIcon/payframe.png
+- Assets/HallEx/TexturesNew/HeadIcon/touxk.png
+- Assets/HallEx/TexturesNew/HeadIcon/2.png
+- Assets/HallEx/TexturesNew/HeadIcon/12.png
+- Assets/HallEx/TexturesNew/HeadIcon/3.png
+- Assets/HallEx/TexturesNew/HeadIcon/freeframe_2.png
+- Assets/HallEx/TexturesNew/HeadIcon/10.png
+- Assets/HallEx/TexturesNew/HeadIcon/4.png
+- Assets/HallEx/TexturesNew/HeadIcon/6.png
+- Assets/HallEx/TexturesNew/HeadIcon/7.png
+- Assets/HallEx/TexturesNew/HeadIcon/11.png
+- Assets/HallEx/TexturesNew/HeadIcon/headmask.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3394359107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ba0f25e4011d2c74b1bf364c12eee38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Audios/Countdown0.wav
+- Assets/tsxFruitMachine/Audios/ding.mp3
+- Assets/tsxFruitMachine/Audios/background.mp3
+- Assets/tsxFruitMachine/Audios/spin.wav
+- Assets/tsxFruitMachine/Audios/Btn_Click.ogg
+- Assets/tsxFruitMachine/Audios/LUCK.mp3
+- Assets/tsxFruitMachine/Audios/Countdown.wav
+- Assets/tsxFruitMachine/Audios/sound-jetton.mp3
+- Assets/tsxFruitMachine/Audios/startBet_sound.mp3
+Dependencies: []

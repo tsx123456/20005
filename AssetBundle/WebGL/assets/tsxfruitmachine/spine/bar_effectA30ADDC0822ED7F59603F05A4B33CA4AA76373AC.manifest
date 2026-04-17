@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1278727541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbb1136753c557dbdc45b550a53ce467
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e46e7e4b877bfdeb69198a9fd36ef50e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect.json
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect.png
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect_SkeletonData.asset
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect_Material.mat
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect_Atlas.asset
+- Assets/tsxFruitMachine/Spine/bar_effect/bar_effect.atlas.txt
+Dependencies: []

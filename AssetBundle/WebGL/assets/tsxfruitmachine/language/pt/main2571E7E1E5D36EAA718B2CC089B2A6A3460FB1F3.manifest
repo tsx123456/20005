@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2981312362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50a600b7cbc5ae89c56b0410f8659fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/language/pt/Main/img_bet.png
+- Assets/tsxFruitMachine/language/pt/Main/playerList.png
+- Assets/tsxFruitMachine/language/pt/Main/pt_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/language/pt/Main/img_wait.png
+- Assets/tsxFruitMachine/language/pt/Main/img_betting.png
+- Assets/tsxFruitMachine/language/pt/Main/img_special.png
+Dependencies: []

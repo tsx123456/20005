@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1347769716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56b1d7755026ebe5b0100ff7ea78dba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/HeadIcon/10.png
+- Assets/tsxFruitMachine/HeadIcon/12.png
+- Assets/tsxFruitMachine/HeadIcon/6.png
+- Assets/tsxFruitMachine/HeadIcon/7.png
+- Assets/tsxFruitMachine/HeadIcon/fruitheadIcon_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/HeadIcon/1.png
+- Assets/tsxFruitMachine/HeadIcon/11.png
+- Assets/tsxFruitMachine/HeadIcon/5.png
+- Assets/tsxFruitMachine/HeadIcon/8.png
+- Assets/tsxFruitMachine/HeadIcon/2.png
+- Assets/tsxFruitMachine/HeadIcon/4.png
+- Assets/tsxFruitMachine/HeadIcon/3.png
+- Assets/tsxFruitMachine/HeadIcon/9.png
+Dependencies: []

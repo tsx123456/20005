@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2079146271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca48508e62ae73a7a1ecd736b952bfb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a1b7ef0daf02bbac8fa6f9a792d9df0
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Anim/test3.anim
+- Assets/tsxFruitMachine/Anim/test4.anim
+- Assets/tsxFruitMachine/Anim/AnimatorController.controller
+Dependencies: []

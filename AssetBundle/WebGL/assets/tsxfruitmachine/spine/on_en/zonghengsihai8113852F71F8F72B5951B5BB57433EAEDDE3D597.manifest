@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2351634106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2aa1cd22f44be2117f85f893af4047c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e46e7e4b877bfdeb69198a9fd36ef50e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai.json
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai_SkeletonData.asset
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai.png
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai.atlas.txt
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai_Atlas.asset
+- Assets/tsxFruitMachine/Spine/on_en/zonghengsihai/zonghengsihai_Material.mat
+Dependencies: []

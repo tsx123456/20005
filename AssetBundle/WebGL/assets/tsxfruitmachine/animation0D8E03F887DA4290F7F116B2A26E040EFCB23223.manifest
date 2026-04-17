@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2189863273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f21c9f31c19184fbf206ca7f36399d04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23abef28c0cbcdf8518a8a837d41d3ac
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Animation/ChipIcon_anim.controller
+- Assets/tsxFruitMachine/Animation/Luck_effect_anim.anim
+- Assets/tsxFruitMachine/Animation/ChipIcon_glow_anim.anim
+- Assets/tsxFruitMachine/Animation/luck_effect.controller
+Dependencies: []

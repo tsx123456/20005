@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 306991165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a010d150f0a6bebeb1245661397ea9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon4.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn4.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon6.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon3.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn5.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn1-1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon2.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn2-1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon7.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn3.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon5.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/img_auto.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn4-1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/icon_cancel.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/icon_gear.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/icon_xuya.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/chipIcon_Atlas.spriteatlasv2
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn3-1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn2.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn5-1.png
+- Assets/tsxFruitMachine/Textures/ChipIcon/btn_icon8.png
+Dependencies: []

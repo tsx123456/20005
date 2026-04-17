@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2791832917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c434795d4a5baf264e6b7d26f05134
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Materials/x3.mat
+- Assets/tsxFruitMachine/Materials/xztxzy_guangshu.mat
+- Assets/tsxFruitMachine/Materials/glow 1.mat
+- Assets/tsxFruitMachine/Materials/x8.mat
+- Assets/tsxFruitMachine/Materials/xztxzy_guangshu 2.mat
+- Assets/tsxFruitMachine/Materials/x1.mat
+- Assets/tsxFruitMachine/Materials/yh.mat
+- Assets/tsxFruitMachine/Materials/x6.mat
+- Assets/tsxFruitMachine/Materials/x2.mat
+- Assets/tsxFruitMachine/Materials/x4.mat
+- Assets/tsxFruitMachine/Materials/anniu_glow2_00.mat
+- Assets/tsxFruitMachine/Materials/glow 2.mat
+- Assets/tsxFruitMachine/Materials/x7.mat
+- Assets/tsxFruitMachine/Materials/yanhua2.mat
+- Assets/tsxFruitMachine/Materials/lucklan.mat
+- Assets/tsxFruitMachine/Materials/aniu_glow_00.mat
+- Assets/tsxFruitMachine/Materials/glow.mat
+- Assets/tsxFruitMachine/Materials/luckzi.mat
+- Assets/tsxFruitMachine/Materials/xztxzy_guangshu 1.mat
+- Assets/tsxFruitMachine/Materials/luck_00.png
+- Assets/tsxFruitMachine/Materials/x5.mat
+- Assets/tsxFruitMachine/Materials/yh 1.mat
+Dependencies:
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/textures_eff.ab

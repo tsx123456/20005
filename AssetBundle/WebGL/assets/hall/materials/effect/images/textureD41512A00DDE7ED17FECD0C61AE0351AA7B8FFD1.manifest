@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1129221850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82f7c3487bb5a79f0bfe5ca28367a4d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Materials/Effect/Images/texture/Thunder_01_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Light_13_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Ray_01_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Light_27_T.png.png
+- Assets/Hall/Materials/Effect/Images/texture/Light_10_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Light_24_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Thunder_05_T.png
+- Assets/Hall/Materials/Effect/Images/texture/Light_20_T.png
+Dependencies: []

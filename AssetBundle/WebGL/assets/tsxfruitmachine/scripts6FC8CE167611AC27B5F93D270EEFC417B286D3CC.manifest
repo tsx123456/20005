@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3271517869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3df36fef6dcd75bcde591809b0d268d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Scripts/Entry.lua.bytes
+- Assets/tsxFruitMachine/Scripts/FruitMachineMgr.lua.bytes
+- Assets/tsxFruitMachine/Scripts/UIFruitMachine_Help.lua.bytes
+- Assets/tsxFruitMachine/Scripts/UIFruitMachine.lua.bytes
+Dependencies: []

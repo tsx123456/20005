@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 962742244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39b298e15139dd92c76eca30ef44dc16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/tsxFruitMachine/Textures/textures_eff/luckl_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/aniu_glow_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/glow_01.png
+- Assets/tsxFruitMachine/Textures/textures_eff/btb.png
+- Assets/tsxFruitMachine/Textures/textures_eff/anniu_glow2_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/hotspot.dds
+- Assets/tsxFruitMachine/Textures/textures_eff/ring_11.png
+- Assets/tsxFruitMachine/Textures/textures_eff/caihong.png
+- Assets/tsxFruitMachine/Textures/textures_eff/luckzi.png
+- Assets/tsxFruitMachine/Textures/textures_eff/luckl_01.png
+- Assets/tsxFruitMachine/Textures/textures_eff/sd6_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/luck_01.png
+- Assets/tsxFruitMachine/Textures/textures_eff/fuzzyshad.dds
+- Assets/tsxFruitMachine/Textures/textures_eff/xztxzy_guangshu1.png
+- Assets/tsxFruitMachine/Textures/textures_eff/yh.png
+- Assets/tsxFruitMachine/Textures/textures_eff/yanhua2.png
+- Assets/tsxFruitMachine/Textures/textures_eff/luck_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/lucklan.png
+- Assets/tsxFruitMachine/Textures/textures_eff/yanhua1.png
+- Assets/tsxFruitMachine/Textures/textures_eff/jinbi.png
+- Assets/tsxFruitMachine/Textures/textures_eff/glow_00.png
+- Assets/tsxFruitMachine/Textures/textures_eff/xztxzy_guangshu.png
+Dependencies: []
