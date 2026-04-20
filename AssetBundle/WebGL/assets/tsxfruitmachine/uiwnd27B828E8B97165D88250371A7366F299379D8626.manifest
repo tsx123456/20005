@@ -1,0 +1,157 @@
+ManifestFileVersion: 0
+CRC: 2882428001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3ce93367c58e4c0606d8cd126006c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e15151ebbfba9a1cb121076c2d1413f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5f85388e938d9e4599afc6d9441ed57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf5e1b87e77e8f741b88fe4b38fcd47f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cff19ba98ef11d4ebf2e8cbeb6a4342, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3897339bf37dbcf46a7a020b38269ea0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9292191f12b88b4a80bf441fd06c6dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d367a049c9f3fde43b1006c087086d28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 609dcc22aadcc16418bfac22716ee9a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c579d213c568fec47a6aadcb9c2cf2b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31b7e54b4c58776478f063ebea77aafd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e90941a9baa120439e50a0081d92664, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator/Settings
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeEndEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeStartEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: UnityEngine.UI.Extensions.ScrollSnapBase/SelectionPageChangedEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/tsxFruitMachine/UIWnd/UIFruitMachine_Help.prefab
+- Assets/tsxFruitMachine/UIWnd/UIFruitMachineMain.prefab
+Dependencies:
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/animation.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/font.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/materials.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/bar_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/dajiangbeijing.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/juzi_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/lingdang_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/ningmeng_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/chaojidamanguan.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/dasanyuan.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/dasixi.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/jiulianbaodeng.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/tianlongbabu.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/tiannvsanhua.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/xiaosanyuan.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/on_en/zonghengsihai.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/pingguo_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/qiqi_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/shuiguiji_neiye_anniuhong.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/shuiguiji_neiye_anniulv.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/shuiguoji_kaijiangbeijing.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/shuiguojibeijing.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/xigua_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/spine/xing_effect.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/chipicon.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/fruiticon.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/help.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/main.ab
+- E:/work/Unity_FruitMachine/./AssetBundle/WebGL/assets/tsxfruitmachine/textures/textures_eff.ab
